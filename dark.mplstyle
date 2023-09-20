@@ -24,7 +24,7 @@ axes.titlecolor     : white
 axes.labelcolor     : white # 657b83
 axes.edgecolor      : white # eee8d5
 legend.labelcolor   : linecolor
-grid.color          : fdf6e3    # grid color
+grid.color          : grey  # grid color
 axes.titlesize      : 12
 axes.labelsize      : 12
 
