@@ -33,7 +33,7 @@ lines.linewidth     : 1.0
 lines.solid_capstyle: butt
 
 
-axes.prop_cycle    : cycler('color', ['FFFFFF', '337200', '268BD2', 'DC322F', '2AA198', 'B58900', 'CB4B16', 'D33682']) # '6C71C4'
+axes.prop_cycle    : cycler('color', [ '337200', '268BD2', 'DC322F', '2AA198', 'B58900', 'CB4B16', 'D33682', 'FFFFFF', ]) # '6C71C4'
 # White
 # Green
 # Blue
